@@ -293,7 +293,7 @@ hr{
 
   }
   .reload_icon{
-    border:15px solid #45474b;
+  /*  border:15px solid #45474b;
     border-top-color: #399be2;
     width:100px;
     height:100px;
@@ -305,6 +305,7 @@ hr{
         transform: rotate(360deg);
     }
   }
+      */
   .courses_box{
     display: none;
   }
