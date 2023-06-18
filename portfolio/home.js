@@ -16,8 +16,9 @@ $(document).ready(function() {
   
 $(document).ready(function(){
   var reloadWords = [
-    "UNIVERSITY OF COMPETITIVE CHOICE",
-    " UNIVERSITY OF COME AND CRY😭😭",
+    "welcome 👋"
+  //  "UNIVERSITY OF COMPETITIVE CHOICE",
+  //  " UNIVERSITY OF COME AND CRY😭😭",
     ];
     var i = 0;
     setInterval(function(){
