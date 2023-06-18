@@ -5,9 +5,9 @@ let questions = [
   question: "What is the purpose of an IP address?",
   answer: "To uniquely identify devices on a network",
   options: [
+    "To uniquely identify devices on a network",
     "To provide internet connectivity",
     "To encrypt data during transmission",
-    "To uniquely identify devices on a network",
     "To secure network resources"
   ]
 },
@@ -18,8 +18,8 @@ let questions = [
   options: [
     "To connect devices within a local network",
     "To filter spam emails",
-    "To forward data packets between different networks",
-    "To establish secure VPN connections"
+    "To establish secure VPN connections",
+    "To forward data packets between different networks"
   ]
 },
     {
@@ -28,8 +28,8 @@ let questions = [
   answer: "SMTP (Simple Mail Transfer Protocol)",
   options: [
     "HTTP (Hypertext Transfer Protocol)",
-    "FTP (File Transfer Protocol)",
     "SMTP (Simple Mail Transfer Protocol)",
+    "FTP (File Transfer Protocol)",
     "DNS (Domain Name System)"
   ]
 },
@@ -96,9 +96,9 @@ let questions = [
   question: "What is the function of an access point in wireless networking?",
   answer: "To provide wireless connectivity to devices",
   options: [
+    "To provide wireless connectivity to devices",
     "To filter network traffic",
     "To convert digital data into analog signals",
-    "To provide wireless connectivity to devices",
     "To establish secure connections"
   ]
 },
@@ -109,8 +109,8 @@ let questions = [
   options: [
     "To encrypt network traffic",
     "To translate domain names into IP addresses",
-    "To allow multiple devices to share a single public IP address",
-    "To establish secure VPN connections"
+    "To establish secure VPN connections",
+    "To allow multiple devices to share a single public IP address"
   ]
 },
 
@@ -131,9 +131,9 @@ let questions = [
   question: "What is the purpose of DHCP (Dynamic Host Configuration Protocol)?",
   answer: "To automatically assign IP addresses to devices on a network",
   options: [
+    "To automatically assign IP addresses to devices on a network",
     "To encrypt network traffic",
     "To translate domain names into IP addresses",
-    "To automatically assign IP addresses to devices on a network",
     "To filter spam emails"
   ]
 },
@@ -180,8 +180,8 @@ let questions = [
   answer: "To act as an intermediary between client devices and the internet",
   options: [
     "To amplify network signals",
-    "To convert digital data into analog signals",
     "To act as an intermediary between client devices and the internet",
+    "To convert digital data into analog signals",
     "To provide wireless connectivity to devices"
   ]
 },
@@ -192,8 +192,8 @@ let questions = [
   answer: "A hub broadcasts data to all connected devices, while a switch selectively forwards data to the intended recipient",
   options: [
     "A hub provides wireless connectivity, while a switch provides wired connectivity",
-    "A hub is faster than a switch",
     "A hub broadcasts data to all connected devices, while a switch selectively forwards data to the intended recipient",
+    "A hub is faster than a switch",
     "A hub is used for home networks, while a switch is used for enterprise networks"
   ]
 },
@@ -204,8 +204,8 @@ let questions = [
   options: [
     "To convert domain names into IP addresses",
     "To encrypt network traffic",
-    "To uniquely identify network interfaces",
-    "To allocate IP addresses to devices"
+    "To allocate IP addresses to devices",
+    "To uniquely identify network interfaces"
   ]
 },
 
@@ -227,9 +227,9 @@ let questions = [
   question: "What is the purpose of ICMP (Internet Control Message Protocol)?",
   answer: "To send error messages and operational information about network conditions",
   options: [
+    "To send error messages and operational information about network conditions",
     "To encrypt network traffic",
     "To translate domain names into IP addresses",
-    "To send error messages and operational information about network conditions",
     "To establish secure VPN connections"
   ]
 },
@@ -251,9 +251,9 @@ let questions = [
   question: "What is the purpose of a network protocol?",
   answer: "To define rules and conventions for communication between devices on a network",
   options: [
+    "To define rules and conventions for communication between devices on a network",
     "To amplify network signals",
     "To connect devices within a local network",
-    "To define rules and conventions for communication between devices on a network",
     "To establish secure connections"
   ]
 },
@@ -265,8 +265,9 @@ let questions = [
   options: [
     "To convert digital data into analog signals",
     "To act as an intermediary between client devices and the internet",
-    "To enable a device to connect to a network",
-    "To provide wireless network access"
+    "To provide wireless network access",
+     "To enable a device to connect to a network"
+
   ]
 },
 
@@ -299,8 +300,8 @@ let questions = [
   answer: "To act as an intermediary between client devices and the internet",
   options: [
     "To amplify network signals",
-    "To convert digital data into analog signals",
     "To act as an intermediary between client devices and the internet",
+    "To convert digital data into analog signals",
     "To provide wireless connectivity to devices"
   ]
 },
@@ -312,8 +313,9 @@ let questions = [
   options: [
     "To provide technical support to end-users",
     "To develop network protocols",
-    "To manage and maintain network infrastructure",
-    "To secure network resources"
+    "To secure network resources",
+    "To manage and maintain network infrastructure"
+
   ]
 },
 
@@ -323,8 +325,8 @@ let questions = [
   answer: "To connect devices within a local network",
   options: [
     "To filter network traffic",
-    "To convert digital data into analog signals",
     "To connect devices within a local network",
+    "To convert digital data into analog signals",
     "To establish secure connections"
   ]
 },
@@ -333,9 +335,9 @@ let questions = [
   question: "What is the function of a network switch?",
   answer: "To connect devices within a local network and facilitate communication",
   options: [
+    "To connect devices within a local network and facilitate communication",
     "To filter network traffic",
     "To amplify network signals",
-    "To connect devices within a local network and facilitate communication",
     "To establish secure connections"
   ]
 },
