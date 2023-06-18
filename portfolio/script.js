@@ -44,7 +44,7 @@ const quit_quiz = result_box.querySelector(".buttons .quit");
 const restart_quiz = result_box.querySelector(".buttons .restart");
 
 restart_quiz.onclick = () =>{
-    quiz_box.classList.add("activeQuiz");
+    /*quiz_box.classList.add("activeQuiz");
     result_box.classList.remove("activeResult");
     let que_count = 0;
     let que_numb = 1;
@@ -59,7 +59,8 @@ restart_quiz.onclick = () =>{
     startTimerLine(widthValue);
     startTimer(timeValue);
     next_btn.styel.display = "none";
-
+    */
+    window.location.reload();
 }
 
 quit_quiz.onclick = () =>{
