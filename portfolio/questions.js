@@ -1,7 +1,9 @@
 //creating array and passing the number,questions,options and answer
 let questions = [
     {
-  numb: 1,
+
+        ]
+  /* numb: 1,
   question: "What is the purpose of an IP address?",
   answer: "To uniquely identify devices on a network",
   options: [
@@ -353,4 +355,4 @@ let questions = [
   ]
 },
     
-]
+]*/
